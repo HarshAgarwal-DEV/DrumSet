@@ -57,7 +57,7 @@ function makeSound(key) {
       break;
 
     case "b":
-      var kick = new Audio('kick.mp3');
+      var kick = new Audio('Kick.mp3');
       kick.play();
       break;
 
